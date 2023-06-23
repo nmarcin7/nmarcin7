@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+My name is Marcin and I am looking for a first job as a flutter developer. I am a hard-working, independent and communicative person.
+
+📫 marcinniemczyk7@gmail.com
+
+
+
+
+
+
 <!--
 **nmarcin7/nmarcin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
