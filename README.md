@@ -5,6 +5,19 @@ My name is Marcin and I am looking for a first job as a flutter developer. I am 
 
 📫 marcinniemczyk7@gmail.com
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
+MY SKILLS:
+
+- Dart
+- Flutter
+- Rest API
+- Firebase
+
+and basic of HTML, CSS, JS, python
+
+
+
 
 
 
