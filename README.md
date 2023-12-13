@@ -13,6 +13,8 @@ MY SKILLS:
 - Flutter
 - Rest API
 - Firebase
+- Bloc
+  
 
 and basic of HTML, CSS, JS, python
 
