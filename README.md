@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Marcin and I am looking for a first job as a flutter developer. I am a hard-working, independent and communicative person.
+My name is Marcin and I am looking for a first job as a flutter developer.
 
 📫 marcinniemczyk7@gmail.com
 
