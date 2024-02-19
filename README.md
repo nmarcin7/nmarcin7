@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-My name is Marcin and I am looking for a first job as a flutter developer.
-
 📫 marcinniemczyk7@gmail.com
 
 --------------------------------------------------------------------------------------------------------------------------------------
